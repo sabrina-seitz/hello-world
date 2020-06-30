@@ -3,4 +3,4 @@
 
 Hi Humans! Sabrina here, this is the start of something good. 
 I love CSS, books, graphic design and Teascript (that's what I'm made of!). 
-I've had pizza on mars and I find them far superior to Earth pizza.
+I've had pizza on Mars and I find them far superior to Earth pizza.
